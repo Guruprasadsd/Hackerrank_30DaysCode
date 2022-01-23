@@ -20,5 +20,3 @@ for line in stdin:
         print("Prime")
     else:
         print("Not prime")
-
-
